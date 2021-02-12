@@ -2,7 +2,7 @@
 
 **个人官网 [Vicosna's Blog](https://Vicosna.com)**
 
-![Vicosna's github stats](https://github-readme-stats.vercel.app/api?username=vicosna&show_icons=true&hide=prs)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=vicosna&layout=compact)
+![Vicosna's github stats](https://github-readme-stats.vercel.app/api?username=vicosna&show_icons=true&hide=prs)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=vicosna&layout=compact&&hide=less)
 
 ### 个人简介
 
